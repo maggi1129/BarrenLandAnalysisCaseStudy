@@ -22,10 +22,15 @@ Output all the fertile land area in square meters, sorted from smallest area to 
 “120 52 135 547”, “260 52 275 547”} 22816 192608
 
 # Approach used: 
-Modified BFS
+Modified BFS and used a facade pattern
 
 # Running the java application
-Clone the repo and run using an IDE:
+Clone the repo and run using an IDE, all the packages/files are in src folder such as
+- Constants, 
+- Service Interface, 
+- Implementation and its test
+- Domain for objects
+- launcher with main
 
 # Snapshots for given inputs:
  
