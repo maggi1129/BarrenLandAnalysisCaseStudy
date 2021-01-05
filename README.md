@@ -45,4 +45,6 @@ Clone the repo and run using an IDE, all the packages/files are in src folder su
 # Future Scope
 - Can make it thread safe 
 - Use frontend frameworks such as react or python to create visualisations 
+- Can use spring for dependency injection
+- Can use a LRU memcache for common inputs 
 
