@@ -5,11 +5,11 @@ You have a farm of 400m by 600m where coordinates of the field are from (0, 0) t
 
 Read input from STDIN. Print output to STDOUT
 
-#Input
+# Input
 
 You are given a set of rectangles that contain the barren land. These rectangles are defined in a string, which consists of four integers separated by single spaces, with no additional spaces in the string. The first two integers are the coordinates of the bottom left corner in the given rectangle, and the last two integers are the coordinates of the top right corner.
 
-#Output
+# Output
 
 Output all the fertile land area in square meters, sorted from smallest area to greatest, separated by a space.
 
@@ -21,22 +21,23 @@ Output all the fertile land area in square meters, sorted from smallest area to 
 
 “120 52 135 547”, “260 52 275 547”} 22816 192608
 
-#Approach used: 
+# Approach used: 
 Modified BFS
 
-#Running the java application
+# Running the java application
 Clone the repo and run using an IDE:
 
-#Snapshots for given inputs:
+# Snapshots for given inputs:
  
 ![Imageop1](https://user-images.githubusercontent.com/25996527/103688247-89890580-4fb7-11eb-951b-8f05f3b429f0.jpg)
 
 ![Imageop2](https://user-images.githubusercontent.com/25996527/103688289-9dcd0280-4fb7-11eb-8283-33837c8b6dad.jpg) 
 
-#Tests:
+# Tests:
 
 ![imagetests](https://user-images.githubusercontent.com/25996527/103688422-cb19b080-4fb7-11eb-89d0-f33d2118897d.jpg)
 
-
- 
+# Future Scope
+- Can make it thread safe 
+- Use frontend frameworks such as react or python to create visualisations 
 
